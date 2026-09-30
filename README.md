@@ -3,6 +3,8 @@
 An interactive reinforcement learning web app built with **Streamlit** implementing the **Upper Confidence Bound (UCB1)** algorithm for real-time Click-Through Rate (CTR) optimization.
 
 ---
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://upperconfidenceboundbychinmay.streamlit.app/)
+---
 
 ## 🚀 Features
 
